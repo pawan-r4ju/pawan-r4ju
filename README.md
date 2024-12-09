@@ -58,4 +58,6 @@
   </a><span>&nbsp;&nbsp;&nbsp;</span>
 </p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pawan-r4ju&show_icons=true&locale=en&layout=compact" alt="pawan-r4ju" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pawan-r4ju&" alt="pawan-r4ju" /></p>
