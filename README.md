@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pawan Raju <p align="top">
 <a href="https://linkedin.com/in/pawanraju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pawanraju" height="30" width="40" /></a>
 <a href="https://discord.gg/pawanraju." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="pawanraju." height="30" width="40" /></a>
-  <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="gg" height="30" width="40" /></a>
+  <a href="https://pawan-r4ju.github.io/my-portfolio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="gg" height="30" width="40" /></a>
 </p></h1>
 <h3 align="center">A passionate FullStack developer from India </h3>
 
