@@ -61,4 +61,4 @@
 
 <p><img src="https://streak-stats.demolab.com?user=pawan-r4ju&theme=default&hide_border=true" alt="pawan-r4ju's GitHub Stats" /></p>
 
-<p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=pawan-r4ju&" alt="pawan-r4ju" /></p>
+<p><img src="https://streak-stats.demolab.com?user=pawan-r4ju&theme=default&hide_border=true" alt="pawan-r4ju's GitHub Stats" /></p>
