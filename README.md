@@ -59,6 +59,6 @@
   </a><span>&nbsp;&nbsp;&nbsp;</span>
 </p>
 
-<p><img src="https://streak-stats.demolab.com?user=pawan-r4ju&theme=default&hide_border=true" alt="pawan-r4ju's GitHub Stats" /></p>
+<p></p>
 
 <p><img src="https://streak-stats.demolab.com?user=pawan-r4ju&theme=default&hide_border=true" alt="pawan-r4ju's GitHub Stats" /></p>
