@@ -61,5 +61,5 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawan-r4ju&theme=default&show_icons=true&hide_border=true&layout=compact" alt="pawan-r4ju's GitHub Stats" /></p>
 
+![GitHub Stats](https://streak-stats.demolab.com?user=pawan-r4ju&theme=default&hide_border=true)
 
-<p><img src="https://streak-stats.demolab.com?user=pawan-r4ju&theme=default&hide_border=true" alt="pawan-r4ju's GitHub Stats" /></p>
